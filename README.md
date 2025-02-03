@@ -2,6 +2,6 @@
 readme file to be update
 
  - [Giortor](https://github.com/Giortor)
- - Contributor pend
+ - [Steel64](https://github.com/Steel64)
  - Contributor pend
  - Contributor pend
